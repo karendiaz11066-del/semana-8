@@ -1,0 +1,4 @@
+POR QUE ES UTIL CONOCER : esta informacion alministra un servidor prermite verificar compatibilidad de sofware y librerias con el sistema instalado
+AYUDA ACONECTAR FALLOS O ERRORES: realiza con la vercion del sistema es fundamental para aplicar actualizaciones de seguridad adecuadas 
+COMANDO WHOAMI:muestra el nombre del usuario con el  que estamos iniciando en el sistema .sirve para identificar quien esta realizando las acciones ,que permisos tiene y confirma que estamos  trabajando con la cuenta correta
+COMANDO UNAME -A:muestra informacion detallada del sistema operativo nombre del nucleo version ,fecha de complimiento y tipo de sistema
